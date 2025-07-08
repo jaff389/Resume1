@@ -1,0 +1,92 @@
+<html lang="en">
+<head>
+   <title>Document</title>
+</head>
+<body>
+    <table>
+    <tbody>
+        <tr>
+   <td><img src="./unnamed.png" width="300px" height="300px"  alt="Jaffar image"/></td> 
+   <td><h1> Sir Taha.</h1></td> 
+    </tr>
+    <tr>
+        <td></td><h1>web desingner:</h1>
+    </tr>
+    </tbody>
+    </table>
+    <table>
+        <tbody>
+            <tr>
+                <td><img alt="Email icon " src="./mail.png"/></td>
+                  <td>Rajajaffarali2025@gmail.com</td>
+                   <td><img alt="calander icon " src="./calenda.png"/></td>
+                    <td> july,6 2025</td>
+            </tr>
+            <tr>
+                <td><img alt="phone icon " src="./phone.png"/></td>
+                <td>03028090100</td>
+                <td><img alt="facebook icon " src="./facebook.png" width="50px" height="50px"/></td>
+                <td><a href="">facebook</a></td>
+            </tr>
+            <tr>
+                  <td><img alt="website icon  " src="./Website.png" width="50px" height="50px"/></td>
+                    <td><a href="" target="_blank">webkin solution</a></td>
+                    <td><img alt="phone icon " src="./phone.png"/></td>
+                <td>03028090100</td>
+                    </tr>
+        </tbody>
+    </table>
+    <hr>
+    <h2>Why Taha?</h2>
+    <ul>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis eligendi, similique nesciunt reprehenderit ea omnis voluptatibus hic amet consequuntur? Eum optio commodi asperiores quisquam voluptates provident aliquam eveniet ullam minus.</li>
+<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, sunt earum labore adipisci a ducimus molestiae perferendis aut inventore laborum quasi reiciendis suscipit laboriosam beatae, aliquid, quibusdam reprehenderit consequuntur? Animi.</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore consequatur, enim minus quaerat repudiandae saepe ut quis quidem, reprehenderit necessitatibus illo voluptates modi dolorum sint quia libero reiciendis non iure?</li>
+</ul>
+<hr>
+<h2><center>Skills</center></h2>
+<table>
+    <tbody>
+        <tr>
+            <td>ios devolpement</td>
+            <td></td>
+        </tr>
+          <tr>
+            <td>web devolpment</td>
+            <td></td>
+        </tr>
+          <tr>
+            <td>photography</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+<hr>
+<h2><center>Professional Experience</center></h2>
+<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eligendi minus rerum recusandae dolorem quia provident. Possimus laudantium veritatis facere aliquam totam sed vitae, nihil vero ipsam obcaecati ex, commodi consectetur!</p>
+<ul>
+    <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Magnam odit expedita dolorem blanditiis impedit similique neque, temporibus unde aperiam nobis, eveniet, distinctio molestiae magni minima id doloremque accusantium incidunt. Sint.</li>
+     <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In eius minima accusantium architecto. Corporis aspernatur blanditiis nulla dolores expedita tempore provident sit dolorem libero maiores alias, nemo, dolore recusandae optio!</li>
+</ul>
+ <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eligendi minus rerum recusandae dolorem quia provident. Possimus laudantium veritatis facere aliquam totam sed vitae, nihil vero ipsam obcaecati ex, commodi consectetur!</p>
+<ul>
+    <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Magnam odit expedita dolorem blanditiis impedit similique neque, temporibus unde aperiam nobis, eveniet, distinctio molestiae magni minima id doloremque accusantium incidunt. Sint.</li>
+     <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In eius minima accusantium architecto. Corporis aspernatur blanditiis nulla dolores expedita tempore provident sit dolorem libero maiores alias, nemo, dolore recusandae optio!</li>
+</ul>
+<hr>
+<h2><center>Professional Qualifications</center></h2>
+<ul>
+    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. </li>
+ <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+     <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+</ul>
+<hr>
+<h2><center>8-b,Farooq-e-Azam Road,Shamsabad,Rawalpindi,Pakistan</center></h2>
+<footer>
+    <a href="./Hobbies.html" target="_blank">Hobbise</a>
+      <a href="./Contact details.html" target="_blank">Contact Details</a>
+      <P>2025 RAJA JAFFAR ALI. All right reserved.</P>
+     <p>Sit amet consectetur adipisicing elit. Harum placeat consequuntur aperiam distinctio, natus alias temporibus. Iure, officiis nisi! Velit.</p>
+</footer>
+</body>
+</html>
